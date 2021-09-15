@@ -1,0 +1,58 @@
+0kilus
+0kilus
+==================================================================
+https://keybase.io/0kilus
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://0kilus.github.io
+  * I am 0kilus (https://keybase.io/0kilus) on keybase.
+  * I have a public key ASCoVk2f2hsIa6jT5yNW8rtkTxHkp5QH42KJwN_4CkZQ0go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a8564d9fda1b086ba8d3e72356f2bb644f11e4a79407e36289c0dff80a4650d20a",
+      "host": "keybase.io",
+      "kid": "0120a8564d9fda1b086ba8d3e72356f2bb644f11e4a79407e36289c0dff80a4650d20a",
+      "uid": "0bda6f95d51874efca945f03a236ff19",
+      "username": "0kilus"
+    },
+    "merkle_root": {
+      "ctime": 1630139180,
+      "hash": "9eea6cd0111720d345cf3885f282317524957967a8001300eb44e979cb16b3b04dd9340be983eabd8c69784c9926203f344d296251f7934a05d604cbea129edc",
+      "hash_meta": "20f19f70972fb133df2ade9cd040e15f3fa206e48ff2939f7a0323e863f2bdaf",
+      "seqno": 20654090
+    },
+    "service": {
+      "entropy": "Lw7Ku9N9lqMpXn5NkRfVI6DE",
+      "hostname": "0kilus.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.0"
+  },
+  "ctime": 1630139313,
+  "expire_in": 504576000,
+  "prev": "554b404261b4376f38aeee98e6c13eb1d47fc4d60167a150fd810590cf72b57a",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqFZNn9obCGuo0+cjVvK7ZE8R5KeUB+NiicDf+ApGUNIKp3BheWxvYWTESpcCG8QgVUtAQmG0N284ru6Y5sE+sdR/xNYBZ6FQ/YEFkM9ytXrEINRTGIfTZ8lbP1g7qey6pyUwA8G2+bkjXSU1lCtvXWyfAgHCo3NpZ8RA4lVDkxGMCvvp+hPR0McnuG42Ao1xvC8VqpupZBdN3mqhOcOjWVhaXwLaKLHU9cIuaGTPWp6N77tgG3LCooP7BahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICB7c/8zl98cv2S0H7HEUkIQFd8hOIhypBAOgk9ylXB5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/0kilus
+
+==================================================================
